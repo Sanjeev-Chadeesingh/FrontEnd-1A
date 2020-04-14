@@ -1,0 +1,90 @@
+CSS COLORS:
+Hexidecimal colors are three groups: red, green and blue.
+
+BOX PRINCIPLES IN CSS
+======================
+BLOCK AND INLINE ELEMENTS
+    -Block elements use full width of browser window and enfore line breaks.
+    -Inline elements don't do any of that. (Images, links). Can neither set their height or width.
+
+CLEARFIX HACK
+    -make empty div as such: <div class="clearfix"></div> in HTML
+    -.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+    **Put this in the stylesheet**
+
+POSITIONING
+    -Absolute
+        -parent needs to be relative position, container is set to absolute, in reference to the parent.
+    -Relative
+
+DESIGN PRINCIPLES
+=================
+    FONTS
+        -Use a font between 15-25px for body text.
+        -Use large font sizes for headlines
+        -Use line spacing between 120 and 150%
+        -Only put 45-90 characters per line
+        -Use sans-serif fonts as often as possible, unless your site is word-heavy, like a blog. Try to keep it to one font, two at most. Check e-book for font-pairing practices.
+    COLORS
+        -Use only one base color, staying away from black, white and gray.
+        -'Flat UI Colors' offers great base colors.
+        -Use a color wheel tool if you want to use color combinations. 'Adobe CC Color' is a good tool for this.
+        -Use color to draw attention to important buttons or tools.
+        -Do not use black in your design.
+        -Choose colors wisely
+            -red: for power/ passion/ excitement
+            -orange: for attention yet less overpowering
+            -yellow: curiosity and intelligence energetic and happiness
+            -green: is harmony, nature life and health, can harmonize and balance designs
+            -blue: patience, piece, stability, trust and honor
+                -think all big social networking
+            -purple: powerful, wealth, wisdom, royalty
+            -pink: romance, passivity, care and affection
+            -brown: relaxation and confidence, earthiness: nature, durability, comfort and reliability
+    IMAGES
+        -Put text directly on an image, so long as you have a healthy contrast between image and text. Some tricks below:
+            -Solution is to overlay image with a color, typically black, making the overall image darker. But other colors can be used, as well as gradients. Check the e-book for help.
+            -Put text in a box when putting it over images. Box should be opaque, so you can still see the image beneath it. Or make the box black.
+            -Blur the image or make it out of focus.
+            -Floor fading is good: darken image at the bottom, proceeding into the bottom navbar.
+        **check e-book for image resources** 
+    ICONS
+        -Use to show features or steps within the site.
+        -Also good for actions and links
+            -make them instantly recognizable
+            -label them
+            -do not let them take center-stage in a design
+                -don't cover everything with icons, give them a supporting roll.
+        -use icon fonts whenever possible, vector-icons scale crystal clear regardless of the sizes
+        **check e-book for resources for free icons**
+    SPACING+LAYOUT
+        -WhiteSpace
+            -space where there is nothing, integral to good layouts
+            -put whitespace between elements, groups of elements, and sections. But do not exaggerate because parts of your site might lose relation to each other.
+                -describes invisible relationships between the elements of your website.
+            Visual Heirarchy
+                -Define where you want your audience to look first
+                -Establish a flow that corresponds with your contents' message
+                -Use whitespace to build that flow
+    INTRO TO USER EXPERIENCE
+        -User Interface (what we've covered so far)
+            -the presentation of the product, how it looks and feels
+        -User Experience
+            -the overall expereince the user has with the product
+            -interface vs experience: think of the old and new Heinz Ketchup bottles
+            -UX is when User's Goals and Businesses' Goals come together
+        **link in e-book to UX crash course**
+    INSPIRATION
+        -use other websites as inspiration to see what leading designers are doing right.
+            -collect designs you like/ think are well designed
+            -answer the questions as to why you like them
+            -figure out what they have in common
+            -use chrome dev tools to break em apart and put em back together
+        -steal like an artist
+        **check e-book for resources, like dribble.**
+    WRAP-UP
+        
