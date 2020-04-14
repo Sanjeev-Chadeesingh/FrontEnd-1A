@@ -86,5 +86,38 @@ DESIGN PRINCIPLES
             -use chrome dev tools to break em apart and put em back together
         -steal like an artist
         **check e-book for resources, like dribble.**
-    WRAP-UP
+  
+  =============================
+  7 STEPS OF BUILDING A WEBSITE
+  =============================
+    1) Define your project
+        -define the goal of your project (portfolio? e-book? blog?)
+        -define your audience (who is the typical user?)
+        -design with goal and audience in mind
+    2) Plan out everything
+        -plan your content: text, images, vids, icons, etc.
+        -start thinking about visual heirarchy (what you will show what you won't etc.) CONTENT BASED APPROACH
+        -define the navigation
+        -define the site structure if it's a bigger project
+    3) Sketch your ideas before you design
+        -get inspired and think about your design
+        -get the ideas out of your head (sketch, paper pencil)
+        -make as many sketches as you want, but don't make it perfect
+        -Never start designing without having an idea of what you want to build
+    4) Design and develop your website
+        -use guidlines and tips you've learned in the webdesign sections
+        -use HTML and CSS: designing in the browser
+        -Use the sketches, content and planning decisions you've made fom the previous 3 steps
+        -Yes this is the biggest part, but all parts are important
+    5) Optimization
+        -optimize performance with site speed
+        -SEO (you don't want a slow website)
+    6) Launch the masterpiece
+        -all you need for launching is a webserver that will host your website and deliver it to the world
+    7) Site Maintenence
+        -Launching is not the end of the story
+        -Monitor your users behavior and change your website if necessary
+        -Update content regularly to show audience that your site is alive
+    **check the e-book for more reference, PERIODIC TABLE OF WEBDESIGN PROCESS** 
+
         
