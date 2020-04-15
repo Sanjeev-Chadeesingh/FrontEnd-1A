@@ -6,6 +6,7 @@ BOX PRINCIPLES IN CSS
 BLOCK AND INLINE ELEMENTS
     -Block elements use full width of browser window and enfore line breaks.
     -Inline elements don't do any of that. (Images, links). Can neither set their height or width.
+    -Inline-Block elements don't enforce linebreaks but you can add margin and padding to them.
 
 CLEARFIX HACK
     -make empty div as such: <div class="clearfix"></div> in HTML
@@ -119,5 +120,14 @@ DESIGN PRINCIPLES
         -Monitor your users behavior and change your website if necessary
         -Update content regularly to show audience that your site is alive
     **check the e-book for more reference, PERIODIC TABLE OF WEBDESIGN PROCESS** 
+
+    3 INGREDIENTS TO RESPONSIVE WEB DESIGN
+        1) Fluid Grid
+            -all layout elements are sized in relative units: percentages instead of absolute units like pixels
+                responsivegridsystem.com for resource
+        2) Flexible Images  
+            -also sized in relative units
+        3) Media Queries
+            -allow us to specify different CSS style rules for different browser widths
 
         
